@@ -20,8 +20,7 @@ Anyone who likes to contribute to opensource and help the beginners.
 - Fork this repository
 - This repository is only for Python, try not to use predefined fuctions.
 - Try using comments where ever required
-- Create a Pull request
-- Help me create a better README.md lol.
+- Create a Pull request.
 
 ## Note
 
