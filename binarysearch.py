@@ -23,7 +23,8 @@ def binary_search(arr, x):
   
   
 # Test array 
-arr = list(map(int, input("Enter a multiple values: ").split())) 
+arr = list(map(int, input("Enter a multiple values: ").split()))
+arr.sort()
 x = int(input("enter the number to be found : "))
   
 # Function call 
