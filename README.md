@@ -4,7 +4,7 @@
 <img style="padding:15px;" src="https://img.shields.io/github/contributors/sumedha3111/Python-for-Beginners?style=flat-square">
 <img style="padding:15px;" src="https://img.shields.io/github/hacktoberfest/2020/sumedha3111/Python-for-Beginners?suggestion_label=Hacktoberfest&style=flat-square">
 <img style="padding:15px;" src="https://img.shields.io/github/forks/sumedha3111/Python-for-Beginners?label=Forks&style=flat-square">
-<img style="padding:15px;" src="https://img.shields.io/github/starssumedha3111/Python-for-Beginners?style=flat-square">
+<img style="padding:15px;" src="https://img.shields.io/github/stars/sumedha3111/Python-for-Beginners?style=flat-square">
 
 
 A Repsitory which has all the basic programs of Python for beginners for learning and quick reference.
