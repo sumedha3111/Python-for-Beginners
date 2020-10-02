@@ -1,4 +1,4 @@
-<h1 align="center">Java for beginners</h1>
+<h1 align="center">Python for beginners</h1>
 
 <p align="center">
 <img style="padding:15px;" src="https://img.shields.io/github/contributors/sumedha3111/Python-for-Beginners?style=flat-square">
