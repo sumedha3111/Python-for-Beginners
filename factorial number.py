@@ -7,5 +7,5 @@ def factorial(p):
         fact = 1
         while(p > 1): 
             fact *= p
-            p-= 1
+            p -= 1
         return fact 
