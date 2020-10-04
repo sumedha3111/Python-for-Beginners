@@ -14,3 +14,13 @@ y = temp
 
 print('The value of x after swapping: {}'.format(x))
 print('The value of y after swapping: {}'.format(y))
+
+
+#We can swap two variables using this method also
+a = 2
+b = 3
+
+a,b = b,a
+
+print('The value of a after swapping: ',a)
+print('The value of b after swapping: ',b)
