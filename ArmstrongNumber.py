@@ -1,3 +1,4 @@
+#program to find Armstromg number
 num = 1634
 
 # Changed num variable to string, 
