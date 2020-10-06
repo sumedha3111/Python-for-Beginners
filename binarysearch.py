@@ -10,7 +10,7 @@ def binary_search(arr, x):
             high = mid - 1
         else: 
             return mid 
-    return -1 
+    return -1
 arr = list(map(int, input("Enter a multiple values: ").split()))
 arr.sort()
 x = int(input("enter the number to be found : "))
