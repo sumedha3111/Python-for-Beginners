@@ -1,6 +1,3 @@
-#Contributed by Mastermind.
-#Check out his website : https://codexwithmastermind.wixsite.com/codex
-
 def check_leap(year):
     return (year % 4 == 0 and (year % 100 != 0 or year % 400 == 0))
 
