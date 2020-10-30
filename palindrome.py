@@ -1,0 +1,14 @@
+num = int(input("Enter the Number "))
+temp = num
+reverse = 0
+
+while(num>0):
+    dig = num%10
+    reverse = reverse*10+dig
+    num = num//10
+
+print(reverse)
+if temp==reverse:
+    print("Number is in Palindrome")
+else:
+    print("Number is not in Palindrome")
